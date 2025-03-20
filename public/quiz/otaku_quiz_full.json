@@ -1,0 +1,99 @@
+{
+  "title": "Otaku Quiz",
+  "description": "A quiz about anime and manga",
+  "min_score": 5,
+  "success_message": "Congratulations, you have passed the quiz!",
+  "failure_message": "Sorry, you have not passed the quiz.",
+  "questions": [
+    {
+      "text": "Quel manga a été créé par Eiichiro Oda ?",
+      "answerOptions": [
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": true },
+        { "text": "Dragon Ball", "isCorrect": false },
+        { "text": "Bleach", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel est le nom complet du protagoniste de One Piece ?",
+      "answerOptions": [
+        { "text": "Monkey D. Luffy", "isCorrect": true },
+        { "text": "Naruto Uzumaki", "isCorrect": false },
+        { "text": "Son Goku", "isCorrect": false },
+        { "text": "Ichigo Kurosaki", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel manga raconte l'histoire d'un ninja déterminé à devenir Hokage ?",
+      "answerOptions": [
+        { "text": "Naruto", "isCorrect": true },
+        { "text": "One Piece", "isCorrect": false },
+        { "text": "Bleach", "isCorrect": false },
+        { "text": "Death Note", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dans quel manga le personnage principal pratique-t-il le Kamehameha ?",
+      "answerOptions": [
+        { "text": "Dragon Ball", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "Attack on Titan", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel manga met en scène des shinigamis et des combats contre des Hollows ?",
+      "answerOptions": [
+        { "text": "Bleach", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "Dragon Ball", "isCorrect": false },
+        { "text": "Death Note", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel manga raconte l'histoire d'un étudiant possédant un carnet aux pouvoirs mortels ?",
+      "answerOptions": [
+        { "text": "Death Note", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "Dragon Ball", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dans quel manga les humains luttent-ils contre des Titans ?",
+      "answerOptions": [
+        { "text": "Attack on Titan", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": false },
+        { "text": "Fullmetal Alchemist", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel manga suit les aventures de deux frères alchimistes à la recherche de la pierre philosophale ?",
+      "answerOptions": [
+        { "text": "Fullmetal Alchemist", "isCorrect": true },
+        { "text": "Death Note", "isCorrect": false },
+        { "text": "Bleach", "isCorrect": false },
+        { "text": "Naruto", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Dans quel manga suit-on l'histoire de Tanjiro et de sa sœur Nezuko ?",
+      "answerOptions": [
+        { "text": "Demon Slayer", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": false },
+        { "text": "Dragon Ball", "isCorrect": false }
+      ]
+    },
+    {
+      "text": "Quel manga a popularisé le genre 'magical girl' avec des héroïnes combattant le mal ?",
+      "answerOptions": [
+        { "text": "Sailor Moon", "isCorrect": true },
+        { "text": "Naruto", "isCorrect": false },
+        { "text": "Bleach", "isCorrect": false },
+        { "text": "One Piece", "isCorrect": false }
+      ]
+    }
+  ]
+}
