@@ -6,7 +6,7 @@ import { Quiz as QuizModel } from "./models/Quiz.js";
 const quiz = ref(null);
 
 onMounted(() => {
-  fetch("quiz/otaku_quiz.json")
+  fetch("quiz/otaku_quiz_full.json")
     .then((res) => res.json())
     .then((data) => {
       quiz.value = new QuizModel(data);

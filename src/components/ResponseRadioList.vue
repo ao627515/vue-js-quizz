@@ -12,7 +12,8 @@ defineProps({
 <template>
   <div class="space-y-2">
     <ResponseRadio
-      v-for="option in options"
+      v-for="(option, i) in options"
+      :id="i"
       :key="option.text"
       :label="option?.text"
       :is-selected="option?.isSelected"
